@@ -4,7 +4,7 @@ import mysql.connector
 dataBase = mysql.connector.connect(
     host='localhost',
     user='root',
-    passwd='Mirved.123'
+    passwd='passwd.123'
 )
 
 # cursor obje hazırlama
